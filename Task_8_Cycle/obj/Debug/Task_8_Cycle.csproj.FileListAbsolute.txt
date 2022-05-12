@@ -1,0 +1,8 @@
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_8_Cycle\Task_8_Cycle\bin\Debug\Task_8_Cycle.exe.config
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_8_Cycle\Task_8_Cycle\bin\Debug\Task_8_Cycle.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_8_Cycle\Task_8_Cycle\bin\Debug\Task_8_Cycle.pdb
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_8_Cycle\Task_8_Cycle\obj\Debug\Task_8_Cycle.csproj.AssemblyReference.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_8_Cycle\Task_8_Cycle\obj\Debug\Task_8_Cycle.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_8_Cycle\Task_8_Cycle\obj\Debug\Task_8_Cycle.csproj.CoreCompileInputs.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_8_Cycle\Task_8_Cycle\obj\Debug\Task_8_Cycle.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_8_Cycle\Task_8_Cycle\obj\Debug\Task_8_Cycle.pdb
